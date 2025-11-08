@@ -13,7 +13,7 @@ const Navbar = () => {
 
 
 
-      const [activeTab, setActiveTab] = useState('all'); // 'all' veya 'music'
+      const [activeTab, setActiveTab] = useState('all'); 
 
   const handleAllClick = () => {
     setActiveTab('all');
