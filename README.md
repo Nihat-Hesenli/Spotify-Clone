@@ -59,12 +59,31 @@ Smooth hover effects
 TailwindCSS-powered design
 
 🛠️ Technologies Used
-Technology	            Description
-React.js	            Frontend library
-React Router DOM	    Multi-page navigation
-Tailwind CSS	        UI styling
-Context API          	Global state management for Player
-HTML5 Audio API     	Song playback functionality
+
+
+
+
+
+Technology	             Description
+
+            
+React.js                 Frontend library
+	           
+
+
+React Router DOM         Multi-page navigation
+
+
+	   
+Tailwind CSS	          UI styling
+
+
+       
+Context API               	Global state management for Player
+
+
+       
+HTML5 Audio API     	     Song playback functionality
 
 
 
