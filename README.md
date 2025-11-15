@@ -65,6 +65,34 @@ React Router DOM	    Multi-page navigation
 Tailwind CSS	        UI styling
 Context API          	Global state management for Player
 HTML5 Audio API     	Song playback functionality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 📂 Project Structure
 SpotifyClone/
 │── src/
@@ -85,6 +113,16 @@ SpotifyClone/
 │   └── main.jsx / index.jsx
 │
 └── README.md
+
+
+
+
+
+
+
+
+
+
 
 ⚙️ Installation & Setup
 1️⃣ Clone the repository
